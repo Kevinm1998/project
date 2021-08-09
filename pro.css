@@ -1,0 +1,131 @@
+.f1 {
+    position: relative;
+    left: 1.5%;
+    padding: 20px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.c {
+    position: relative;
+    line-height: 1.5cm;
+    left: 3.5%;
+}
+
+.f2 {
+    padding: 20px;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#scc {
+    float: left;
+    background: none;
+    height: 300px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+.scc1-text {
+    position: relative;
+    top: 0%;
+    left: 0px;
+    padding 0 40px;
+    
+}
+.scc1-text > p {
+    position: relative;
+    top: -50px;
+    left: -130px;
+}
+
+div p {
+    font-size: 60px;
+    font-weight: bold;
+}
+
+div h3 {
+    font-size: 15px;
+    font-weight: light;
+    color: #696969;
+}
+
+.scc1-text-cl {
+    position: relative;
+    top: 20%;
+    left: 0px;
+    right: 40px;
+    padding 0 40px;
+}
+.scc1-text-cl > h3 {
+    position: relative;
+    top: -80px;
+    left: -80px;
+
+
+}
+
+#img1 {
+    float: left;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.box {
+    position: relative;
+    float: left;
+    background: #FAF0E6;
+    width: 150px;
+    height: 185px;
+    top: -40px;
+    left: 130px;
+    border-radius: 10%;
+    justify-content: space-evenly;
+}
+
+
+.image {
+    border-radius: 100%;
+    width: 80%;
+    padding: 25px 15px;
+}
+
+.box > h5 {
+    position: relative;
+    text-align:center;
+    top: -40px;
+    font-weight: bold;
+ 
+}
+
+.button {
+    position: relative;
+    background: red;
+    color: white;
+    border: 1px solid #eee;
+    border-radius: 20px;
+    text-shadow: none;
+    text-align: center;
+    height: 40px;
+    width: 100px;
+    margin: 10px;
+    
+}
+[class|="content"] {
+    text-decoration-line: line-through;
+}
+
+.hline {
+    position: relative;
+    border: 1px solid red;
+    width: 40px;
+    top: -80px;
+    left: -80px;
+}
+
+
+
+
